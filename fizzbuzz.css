@@ -1,0 +1,18 @@
+body {
+    background-color: red;
+    justify-content: center;
+}
+  
+h1 {
+    font-family: 'Henny Penny', cursive;
+    font-size: 129px;
+}
+
+section {
+    margin-left: 32%;
+}
+  
+.clickThis {
+    background-color: blue;
+    color: white;
+}
